@@ -6,7 +6,7 @@ description: Aashi Tiwari personal blog.
 keywords: Aashi,Tiwari,Aashi Tiwari,aashitiwari,blog,Jekyll,github,gh-pages
 baseurl:  
 url: https://aashi-tiwari.github.io  
-img_path: /Jalpc/static/assets/img/blog  
+img_path: /static/assets/img/blog  
 
 # author -- index page "about me" section
 author:  # aashi-tiwari
