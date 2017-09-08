@@ -11,12 +11,31 @@
 - name: SJSU Chatbot
   i18n: cpython
   gh_user: aashi-tiwari
-  repo: 273Project_SJSUChatBot
+  repo: aashi-tiwari/273Project_SJSUChatBot
   img: /static/assets/img/landing/python.png
   desc: Deployed an IBM Watson Conversation chatbot where users can interact through Slack App to get automated answers of coursework information. Developed a python program which communicated between Slack API and IBM Watson Conversation service.
 
-- name: Google
+- name: Java Parser
   i18n: google
-  url: https://google.com
+  repo: aashi-tiwari/Java-PARSER
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Developed a java program for parsing java source code and generate UML Diagram using PlantUML and GraphViz.
+  
+- name: Pizza Ordering System
+  i18n: google
+  repo: aashi-tiwari/Pizza_ordering_systems
+  img: /static/assets/img/landing/google.png
+  desc: Developed a pizza ordering system REST API which interacted through AWS Lambda python functions to manage pizza orders in DynamoDB.
+  
+- name: Gas Pump System
+  i18n: google
+  repo: aashi-tiwari/Hackathon
+  img: /static/assets/img/landing/google.png
+  desc: Developed a java desktop application for gas pump machine using Greenfoot. Incorporated different design patterns such as command pattern, state pattern and chain of responsibility.
+
+- name: Flask Application
+  i18n: google
+  repo: aashi-tiwari/Flask-Application
+  img: /static/assets/img/landing/google.png
+  desc: Developed simple Flask application which reads its configuration data from a Github repo and dockerized application.
+  
