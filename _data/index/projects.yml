@@ -1,19 +1,19 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Event Management Site
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: aashi-tiwari
+  repo: SJSU272LabS17/Project-Team-15
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Developed a web application where people could enroll and create different types of events. Technologies used were Node.js, AngularJS, Express.js for web development and MySQL for database management.
 
-- name: Python
+- name: SJSU Chatbot
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: aashi-tiwari
+  repo: 273Project_SJSUChatBot
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Deployed an IBM Watson Conversation chatbot where users can interact through Slack App to get automated answers of coursework information. Developed a python program which communicated between Slack API and IBM Watson Conversation service.
 
 - name: Google
   i18n: google
