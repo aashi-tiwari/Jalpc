@@ -19,7 +19,7 @@
   i18n: google
   gh_user: aashi-tiwari
   repo: Java-PARSER
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/java.png
   desc: Developed a java program for parsing java source code and generate UML Diagram using PlantUML and GraphViz.
   
 - name: Pizza Ordering System
