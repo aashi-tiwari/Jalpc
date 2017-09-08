@@ -26,7 +26,7 @@
   i18n: google
   gh_user: aashi-tiwari
   repo: Pizza_ordering_systems
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/aws.png
   desc: Developed a pizza ordering system REST API which interacted through AWS Lambda python functions to manage pizza orders in DynamoDB.
   
 - name: Gas Pump System
