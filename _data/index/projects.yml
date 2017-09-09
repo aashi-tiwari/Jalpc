@@ -40,6 +40,6 @@
   i18n: google
   gh_user: aashi-tiwari
   repo: Flask-Application
-  img: /static/assets/img/landing/docker.jpg
+  img: /static/assets/img/landing/docker.png
   desc: Developed simple Flask application which reads its configuration data from a Github repo and dockerized application.
   
