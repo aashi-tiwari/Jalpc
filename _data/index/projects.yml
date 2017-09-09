@@ -4,7 +4,7 @@
 - name: Event Management Site
   i18n: jalpc
   gh_user: aashi-tiwari
-  repo: SJSU272LabS17/Project-Team-15
+  repo: Project-Team-15
   img: /static/assets/img/landing/mean.png
   desc: Developed a web application where people could enroll and create different types of events. Technologies used were Node.js, AngularJS, Express.js for web development and MySQL for database management.
 
