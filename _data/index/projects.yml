@@ -33,7 +33,7 @@
   i18n: google
   gh_user: aashi-tiwari
   repo: Hackathon
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/greenfoot.png
   desc: Developed a java desktop application for gas pump machine using Greenfoot. Incorporated different design patterns such as command pattern, state pattern and chain of responsibility.
 
 - name: Flask Application
