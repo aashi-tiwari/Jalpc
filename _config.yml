@@ -19,7 +19,7 @@ author:  # aashi-tiwari
   facebook_username: aashi.tiwari.12  
   twitter_username: _aashitiwari  
   email: aashi_tiwari@hotmail.com  
-  cv: /static/assests/Aashi_tiwari.pdf
+  cv: /static/assets/Aashi_tiwari.pdf
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
