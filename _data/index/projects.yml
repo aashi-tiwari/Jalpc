@@ -1,12 +1,27 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Cryptocurrencies Predictions
+  i18n: jalpc
+  gh_user: aashi-tiwari
+  repo: CryptoCurrency-Historical-Prices
+  img: /static/assets/img/landing/crypto.png
+  desc:  Predict CryptoCurrency prices based on historical data by using Regression and ARIMA analysis. Identify trends, seasonality over the last year and find Pearson, Spearman & Kendall correlationship between different cryptocurrencies. Technologies: Python, Machine Learning, Time Series, Fbprophet, Scikit-learn, ARIMA, Statsmodel, Jupyter Notebook, Seaborn.
+
+- name: E-commerce web application
+  i18n: jalpc
+  gh_user: aashi-tiwari
+  repo: 
+  img: /static/assets/img/landing/cloud.png
+  desc: Develop a cloud based fault tolerant web application using Node.js / Express.js and AngularJS. Create Redis database service to manage concurrently accessible user sessions.Create node clusters for production level performance on Docker and deploy docker images to AWS EC2 instances. Technologies used are Node.js, Express.js, AngularJS, Redis, MongoDB, Docker and AWS.
+
+
 - name: Event Management Site
   i18n: jalpc
   gh_user: aashi-tiwari
   repo: Project-Team-15
   img: /static/assets/img/landing/mean.png
-  desc: Developed a web application where people could enroll and create different types of events. Technologies used were Node.js, AngularJS, Express.js for web development and MySQL for database management.
+  desc: Developed a web application where people could enroll and create different types of events. Developed the application using Express.js for backend server side, AngularJS for front end view and MySQL for retrieving and storing events data. Technologies used were Node.js, AngularJS, Express.js for web development and MySQL for database management.
 
 - name: SJSU Chatbot
   i18n: cpython
