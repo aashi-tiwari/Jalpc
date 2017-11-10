@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, Python, Node.js, REST, Express.js, Machine Learning, Docker, AWS, Databases, Scrum/Kanban , AngularJS, Github
-percentage: 60, 50, 50, 50, 50, 55, 50, 60, 60, 55, 40, 50
+aspects: Java, Python, Node.js, REST, Express.js, Machine Learning, Docker, AWS, NOSQL Databases, Scrum/Kanban , AngularJS, Github
+percentage: 70, 60, 60, 60, 60, 65, 70, 70, 60, 55, 40, 60
